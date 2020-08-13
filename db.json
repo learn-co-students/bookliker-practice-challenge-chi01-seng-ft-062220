@@ -9,12 +9,12 @@
       "img_url": "https://books.google.com/books/content?id=3S8Rwr-iBdoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 2,
-          "username": "auer"
+          "id": 9,
+          "username": "alex"
         },
         {
-          "id": 8,
-          "username": "maverick"
+          "id": 10,
+          "username": "macejkovic"
         }
       ]
     },
@@ -51,16 +51,7 @@
       "description": "In I’m Telling the Truth, but I’m Lying Bassey Ikpi explores her life—as a Nigerian-American immigrant, a black woman, a slam poet, a mother, a daughter, an artist—through the lens of her mental health and diagnosis of bipolar II and anxiety. Her remarkable memoir in essays implodes our preconceptions of the mind and normalcy as Bassey bares her own truths and lies for us all to behold with radical honesty and brutal intimacy.",
       "author": "Bassey Ikpi",
       "img_url": "https://books.google.com/books/content?id=nHlbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 8,
-          "username": "maverick"
-        },
-        {
-          "id": 9,
-          "username": "alex"
-        }
-      ]
+      "users": []
     },
     {
       "id": 4,
@@ -70,12 +61,8 @@
       "img_url": "http://books.google.com/books/content?id=S3yODQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 10,
-          "username": "macejkovic"
-        },
-        {
-          "id": 8,
-          "username": "maverick"
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -86,20 +73,7 @@
       "description": "Pocket Change Collective was born out of a need for space. Space to think. Space to connect. Space to be yourself. And this is your invitation to join us. 'Thank God we have Alok. And I'm learning a thing or two myself'--Billy Porter, Emmy award-winning actor, singer, and Broadway theater performer",
       "author": "Alok Vaid-Menon",
       "img_url": "https://books.google.com/books/content?id=hxGuDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 10,
-          "username": "macejkovic"
-        },
-        {
-          "id": 4,
-          "username": "ann"
-        },
-        {
-          "id": 8,
-          "username": "maverick"
-        }
-      ]
+      "users": []
     },
     {
       "id": 6,
@@ -110,12 +84,8 @@
       "img_url": "https://books.google.com/books/content?id=54vbDgAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 7,
-          "username": "steuber"
-        },
-        {
-          "id": 4,
-          "username": "ann"
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -128,12 +98,8 @@
       "img_url": "http://books.google.com/books/content?id=FLFoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 3,
-          "username": "marvin"
-        },
-        {
-          "id": 5,
-          "username": "feels-like-summer"
+          "id": 7,
+          "username": "summerqueen98"
         }
       ]
     },
@@ -146,16 +112,16 @@
       "img_url": "http://books.google.com/books/content?id=EtVfCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 9,
-          "username": "alex"
+          "id": 1,
+          "username": "pouros"
         },
         {
-          "id": 3,
-          "username": "marvin"
+          "id": 5,
+          "username": "feels-like-summer"
         },
         {
-          "id": 2,
-          "username": "auer"
+          "id": 6,
+          "username": "steuber"
         }
       ]
     },
@@ -168,16 +134,8 @@
       "img_url": "http://books.google.com/books/content?id=8thMLkahggcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
-          "username": "maverick"
-        },
-        {
-          "id": 6,
-          "username": "steuber"
-        },
-        {
-          "id": 5,
-          "username": "feels-like-summer"
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -192,28 +150,6 @@
         {
           "id": 8,
           "username": "maverick"
-        },
-        {
-          "id": 10,
-          "username": "macejkovic"
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "title": "Behold the Dreamers",
-      "subtitle": "",
-      "description": "Behold the Dreamers is the 2016 debut novel by Imbolo Mbue. The novel details the experiences of two New York City families during the 2008 financial crisis: an immigrant family from Cameroon, the Jonga family, and their wealthy employers, the Edwards family.",
-      "author": "Imbolo Mbue",
-      "img_url": "http://books.google.com/books/content?id=nEcsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 8,
-          "username": "maverick"
-        },
-        {
-          "id": 10,
-          "username": "macejkovic"
         }
       ]
     }
